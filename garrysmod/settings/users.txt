@@ -13,12 +13,13 @@
 	"superadmin"
 	{
 		//"garry"			"STEAM_0:1:7099"
-		"milou2764"			"STEAM_0:0:11101"
+		"milou2764"			"STEAM_0:0:89713489"
 	}
 	
 	"admin"
 	{
 		//"garry"			"STEAM_0:1:7099"
+		"milou2764"			"STEAM_0:0:89713489"
 	}
 
 }
