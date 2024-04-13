@@ -17,7 +17,7 @@ done
 
 export LD_LIBRARY_PATH=$SCRIPT_DIR/bin
 $SCRIPT_DIR/srcds_linux\
-	-maxplayers 2\
+	-maxplayers 32\
 	-steam\
 	-allowdebug\
 	+map gm_flatgrass\
